@@ -12,4 +12,4 @@ npm i string-scrambler
 
 In your app:
 
-const stringScrambler = rquire('string-scrambler')
+const stringScrambler = require('string-scrambler')
