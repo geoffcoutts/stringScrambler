@@ -6,6 +6,6 @@ module.exports = string => {
     array.splice(Math.floor(Math.random() * Math.floor(array.length - 1)), 1, array[i]);
   }
   let newString = array.join('');
-  return newString;
+  return newString + '!!!!!!!!';
 
 };
