@@ -13,3 +13,5 @@ npm i string-scrambler
 In your app:
 
 const stringScrambler = require('string-scrambler')
+
+stringScrambler("ExampleString");
