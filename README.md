@@ -8,8 +8,8 @@ This will scramble your string so much, you won't even have the same letters in 
 
 To get started:
 
-npm i stringScrambler
+npm i string-scrambler
 
 In your app:
 
-const stringScrambler = rquire('stringScrambler')
+const stringScrambler = rquire('string-scrambler')
